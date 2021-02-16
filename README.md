@@ -9,4 +9,4 @@ As a team of 4, and using Angular, we made a website that included things such a
 To get the project running locally, you must have angular dependencies installed in your local machine (https://angular.io/guide/setup-local)
   then you must run the server locally using the command "ng serve"
 
-  You can also check the project in the live server provided in the description
+  You can also check the project in the live server: http://alejandro.codefactory.live/
